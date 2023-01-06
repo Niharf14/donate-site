@@ -1,0 +1,13 @@
+.header{
+    background-image: url("../images/donation0.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1840px;
+    height: 669px;
+}
+.header-sec{
+    text-align: center;
+    width: 826px;
+    height: 320px;
+    padding-top: 175px 307px;
+}
